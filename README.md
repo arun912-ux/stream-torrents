@@ -12,7 +12,7 @@ So this project is totally wriiten for Windows users in Python Language
 
 This is a python script. It scape 1337x and get the magnet link.
 After this it use [peerflix](https://github.com/mafintosh/peerflix) to stream the video from magnet link.
-For scraping script use simple gnu utils like sed, awk, paste, cut.
+For scraping script use python http.client, sys, time libraries, re.
 
 
 ## Dependencies

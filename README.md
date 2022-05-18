@@ -1,11 +1,10 @@
 # Play and Stream torrent files in VLC - Windows 
 
-### Shotout
+### Shout out
 This project is inspired from Bugs Writer [notflix](https://github.com/bugswriter/notflix).  
 He used bash scripting, so it only run on Linux based system. 
 
 So this project is totally wriiten for Windows users in Python Language
-
 
 
 ### How does this work?
@@ -36,12 +35,14 @@ For scraping script use python http.client, sys, time libraries, re.
 
 ## How to run
 
-- clone or download this repo. 
-- open Terminal or PowerShell or Command Prompt in the repo folder.
-- to run the script,  and just type <p>
+> Watch the video on how to run [video]()
+
+- Clone or download this repo. 
+- Open Terminal or PowerShell or Command Prompt in the repo folder.
+- To run the script,  and just type <p>
 ``` search-final.py  <moviename>```
 
-- select the file from drop down. 
-> Hint : Select the top ones since they have more seeders.
+- Select the file from drop down. 
+    - Hint : Select the top ones since they have more seeders.
 
 - That's it. Your searched file will be play in the VLC player.

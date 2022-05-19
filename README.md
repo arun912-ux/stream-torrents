@@ -1,10 +1,10 @@
-# Play and Stream torrent files in VLC - Windows 
+# Play / Stream torrent files in VLC - Windows 
 
 ### Shout out
 This project is inspired from Bugs Writer [notflix](https://github.com/bugswriter/notflix).  
-He used bash scripting, so it only run on Linux based system. 
+He used bash scripting, so it only works on Linux based system. 
 
-So this project is totally wriiten for Windows users in Python Language
+So this project is totally written for Windows users in Python and Batch.
 
 
 ### How does this work?

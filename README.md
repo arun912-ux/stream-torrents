@@ -45,7 +45,7 @@ For scraping script use python http.client, sys, time libraries, re.
 > Watch the video on how to run [video]()
 
 - Clone or download this repo. 
-- Open Terminal or PowerShell or Command Prompt in the repo folder.
+<!-- - Open Terminal or PowerShell or Command Prompt in the repo folder. -->
 - To run the script :
     - Run the ```search-final.py``` file
     - Enter the name to be searched

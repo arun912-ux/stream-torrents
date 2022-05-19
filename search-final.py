@@ -49,6 +49,7 @@ fi = open('rep.txt', 'r', encoding = 'utf-8')
 
 # for i in range(0, len(m.group())):
 #     print(m.group(1))
+
 i=1
 lis=[]
 for line in fi.readlines():

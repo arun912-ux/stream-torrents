@@ -39,8 +39,10 @@ For scraping script use python http.client, sys, time libraries, re.
 
 - Clone or download this repo. 
 - Open Terminal or PowerShell or Command Prompt in the repo folder.
-- To run the script,  and just type <p>
-``` search-final.py  <moviename>```
+- To run the script :
+    - Run the ```search-final.py``` file
+    - Enter the name to be searched
+        - eg. ```Enter name : avatar 2009```
 
 - Select the file from drop down. 
     - Hint : Select the top ones since they have more seeders.

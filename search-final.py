@@ -8,9 +8,16 @@ from time import sleep
 
 #print(len(sys.argv))
 s=""
-for i in range(1, len(sys.argv)):
-    #print(sys.argv[i])
-    s = s + sys.argv[i] + "+"
+
+lengthOfArgs = len(sys.argv)
+# print(lengthOfArgs)
+
+if(lengthOfArgs == 1):
+    s = input("Enter name: ").replace(" ", "+")
+else:
+    for i in range(1, lengthOfArgs):
+        #print(sys.argv[i])
+        s = s + sys.argv[i] + "+"
 
 
 # print(s)

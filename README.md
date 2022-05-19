@@ -21,7 +21,12 @@ For scraping script use python http.client, sys, time libraries, re.
 1. VLC
 
 
-### to install dependencies:
+### Install dependencies:
+
+#### Automated method
+1. Run the ```install_dependencies.bat``` file.
+
+#### Manual method
 
 1.  [Click](https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi) to download NodeJS installer
 

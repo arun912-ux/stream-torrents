@@ -15,6 +15,9 @@ choco install vlc -y
 @REM install peerflix in nodejs
 npm install -g peerflix
 
+@REM install qbittorrent
+choco install qbittorrent -y
+
 
 
 

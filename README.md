@@ -24,7 +24,9 @@ For scraping script use python http.client, sys, time libraries, re.
 ### Install dependencies:
 
 #### Automated method
-1. Run the ```install_dependencies.bat``` file.
+
+1. Run the ```install_dependencies.bat``` file as admin.
+    - right click on the file and select `Run as Administrator`.
 
 #### Manual method
 
@@ -53,3 +55,12 @@ For scraping script use python http.client, sys, time libraries, re.
     - Hint : Select the top ones since they have more seeders.
 
 - That's it. Your searched file will be play in the VLC player.
+
+
+## Optional (feature implementation)
+
+1. Install qbittorrent to download instead of streaming.
+1. Install [qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli/wiki/Getting-Started) and follow the instructions for cli commands.
+
+
+
